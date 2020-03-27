@@ -3,7 +3,8 @@ adnymics
 ========
 
 
-Add a short description here!
+This package allows to make an API call to Adnymics server, to retrieve and munge relevant data
+Julien Hernandez Lallement
 
 
 Description
@@ -11,9 +12,3 @@ Description
 
 A longer description of your project goes here...
 
-
-Note
-====
-
-This project has been set up using PyScaffold 3.2.2. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
